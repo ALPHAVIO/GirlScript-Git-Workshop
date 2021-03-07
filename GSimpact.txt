@@ -1,1 +1,3 @@
 Git workshop on 7 March. I hope everyone learned about open-source and git.
+
+--Thanks for the workshop---
